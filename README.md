@@ -2,13 +2,9 @@
 
 Optimize some models to get a little more fps and fix lots of bugs.
 
-## Dependencies
+## Feature list
 
-### Optional
-
-- [Respackopts](https://modrinth.com/mod/respackopts) Mod for config this resource pack
-
-## Optimizations
+### Optimizations
 
 Blocks
 
@@ -24,7 +20,7 @@ Blocks
 - Lighting Rod
 - Stairs in [MC-262461](https://bugs.mojang.com/browse/MC-262461)
 
-## Fixes
+### Fixes
 
 Blocks
 
@@ -37,38 +33,26 @@ Blocks
 - Iron Bars in [MC-192420](https://bugs.mojang.com/browse/MC-192420) and some visual improvements
 - Tripwire from [MC-262600](https://bugs.mojang.com/browse/MC-262600)
 - Sculk Sensors uv fix
-- redstone_torch in [MC-129108](https://bugs.mojang.com/browse/MC-129108)
-- Repeater in [MC-177452](https://bugs.mojang.com/browse/MC-177452) (Also fix [MC-214662](https://bugs.mojang.com/browse/MC-214662), [MC-129108](https://bugs.mojang.com/browse/MC-129108))
-- Comparator in [MC-177453](https://bugs.mojang.com/browse/MC-177453) (Also fix [MC-214662](https://bugs.mojang.com/browse/MC-214662), [MC-129108](https://bugs.mojang.com/browse/MC-129108))
 - Spawner in [MC-266463](https://bugs.mojang.com/browse/MC-266463)
-- glow_lichen in [MC-249079](https://bugs.mojang.com/browse/MC-249079)
-- Tripwire and Tripwire Hook from [MC-262546](https://bugs.mojang.com/browse/MC-262546) (modified)
+- Glow Lichen in [MC-249079](https://bugs.mojang.com/browse/MC-249079)
+- Tripwire and Tripwire Hook from [MC-262546](https://bugs.mojang.com/browse/MC-262546). (modified)
 - Dragon Egg in [MC-262652](https://bugs.mojang.com/browse/MC-262652)
 
 Items
 
 - Handheld Arrow from [MC-201808](https://bugs.mojang.com/browse/MC-201808)
-- Left hand rotate in [MC-160810](https://bugs.mojang.com/browse/MC-160810)
 
-## Optimizations and Fixes
+### Optimizations and Fixes
 
 Blocks
 
 - Flower Pot in [MC-129826](https://bugs.mojang.com/browse/MC-129826)
 - Spore Blossom
-- Sculk Vein and Glow Lichen
-- Redstone Dust
 
-## Improvements
-
-Blocks
-
-- Shadeless end_rod, lantern, stonecutter saw
+### Improvements
 
 Items
 
-- 3D candle, hopper, cauldron, torch, lantern, comparator, repeater, lever
-- hopper, cauldron display upside down on the head
-- block is a bit bigger in item frame, thin_block display on the head
+- 3D Hopper, Cauldron, Comparator, Repeater.
 
-_#: "from" means it is not my code. From version 4.0, this project is under Unlicense._
+_"from" means it is not my code._
